@@ -1,1 +1,2 @@
-The first year in cs Algorithms; C language .
+# The first year in cs Algorithms
+## C language .
